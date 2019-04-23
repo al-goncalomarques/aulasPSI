@@ -10,7 +10,7 @@ public class Projeto_Video {
         System.out.println("Insira o nome da conta");
         String nome=sc.next();
         agenda.setNome(nome);
-        
+        //alteração teste
         for(int i=0;i<3;i++){
             
             System.out.println("Insira as informações do contacto Nº"+ (i+1) +"");
